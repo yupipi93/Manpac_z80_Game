@@ -1,0 +1,37 @@
+;; SIN COLISION
+0: 0 0 0 0 - Pasillo
+1: 0 0 0 1 - Pasillo lento
+
+2: 0 0 1 0 - Coco en pasillo 		**
+3: 0 0 1 1 - SuperCoco en pasillo 	**
+
+4: 0 1 0 0 - Cruce
+5: 0 1 0 1 
+
+6: 0 1 1 0 - Coco en Cruce 			**
+7: 0 1 1 1 - SuperCoco en Cruce   	**
+
+8: 1 0 0 0 - Esquina
+9: 1 0 0 1 - Coco en esquina 		**
+
+A: 1 0 1 0 - Teletransporte 1
+B: 1 0 1 1 - Teletransporte 2
+
+;; COLISION
+C: 1 1 0 0 - Patio Fantasmas 1
+D: 1 1 0 1 - Patio Fantasmas 2
+
+E: 1 1 1 0 - Pared
+F: 1 1 1 1 - Puerta Fantasmas
+
+   1 1 1 X = Colision Pacman
+
+   1 1 X X = Zona fantasma
+
+   0 0 X X = Pasillo
+
+   0 1 X X = Cruce
+
+   1 0 0 X = Esquina
+
+   1 0 1 X = Teletransporte

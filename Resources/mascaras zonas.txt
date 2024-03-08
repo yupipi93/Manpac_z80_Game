@@ -1,0 +1,34 @@
+0: 0 0 0 0 - Zona 0, Pasillo
+1: 0 0 0 1 - Zona 0, Pared
+2: 0 0 1 0 - Zona 0, Puerta a 1
+3: 0 0 1 1 - Zona 0, Puerta a 2
+
+4: 0 1 0 0 - Zona 1, Pasillo
+5: 0 1 0 1 - Zona 1, Pared
+6: 0 1 1 0 - Zona 1, Puerta a 0
+7: 0 1 1 1 - Zona 1, Puerta a 3
+
+8: 1 0 0 0 - Zona 2, Pasillo
+9: 1 0 0 1 - Zona 2, Pared
+A: 1 0 1 0 - Zona 2, Puerta a 0
+B: 1 0 1 1 - Zona 2, Puerta a 3
+
+C: 1 1 0 0 - Zona 3, Pasillo
+D: 1 1 0 1 - Zona 3, Pared
+E: 1 1 1 0 - Zona 3, Puerta a 1
+F: 1 1 1 1 - Zona 3, Puerta a 2
+
+
+0: 0 0 X X = Zona 0
+
+1: 0 1 X X = Zona 1
+
+2: 1 0 X X = Zona 2
+
+3: 1 1 X X = Zona 3
+
+   X X 0 0 = Pasillo
+
+   X X 0 1 = Pared
+
+   X X 1 X = Puerta

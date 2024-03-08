@@ -1,0 +1,5 @@
+2: 00 10 - Coco en pasillo 			**
+3: 00 11 - SuperCoco en pasillo 	**
+6: 01 10 - Coco en Cruce 			**
+7: 01 11 - SuperCoco en Cruce   	**
+9: 10 01 - Coco en esquina 			**

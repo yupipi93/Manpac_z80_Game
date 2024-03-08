@@ -1,0 +1,19 @@
+MANPAC
+=======
+
+ManPac has been developed for three Multimedia Engineering students Amstrad under the TelleriumDev name:
+
+- Code has been written by Sergio Conejero Vicente and Victor Victor Manuel Belén Rivera
+- Graphics & Loading Screen have been drawn Sergio Conejero Vicente
+- Excelent music have been created by Roberto Carlos Espinosa Benavente
+
+ManPac also has been possible thanks to:
+
+- CPCtelera: Fran Gallego and the rest of contributors and suporters.
+
+Also many thanks to:
+
+- Juan Carlos González Amestoy for letting us user his Retro Virtual Machine to test and improve ManPac 
+
+
+ManPac is released under the GPL license, included with the source code.
